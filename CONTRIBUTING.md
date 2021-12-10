@@ -1,4 +1,6 @@
 # Contributing to Cardinal
+### Note: This repository is not accepting contributions. This file has been released for documentation purposes.
+
 Thank you for your interest in contributing to Cardinal!
 
 ### Feature Requests
